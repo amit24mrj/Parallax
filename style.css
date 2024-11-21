@@ -27,12 +27,12 @@ section{
     ),
     url("images/image1.jpg");
     background-repeat: no-repeat;
-    background-size: 100% auto;
+    background-size: 100% cover;
     background-attachment: fixed;
 }
 .section2{
     background-repeat: no-repeat;
-    background-size: 100% auto;
+    background-size: 100% cover;
     background-image: linear-gradient(
         rgba(0,0,0,0.3),
         rgba(0,0,0,0.3)
@@ -41,7 +41,7 @@ section{
 }
 .section3{
     background-repeat: no-repeat;
-    background-size: 100% auto;
+    background-size: 100% cover;
     background-image: linear-gradient(
         rgba(0,0,0,0.3),
         rgba(0,0,0,0.3)
@@ -51,7 +51,7 @@ section{
 }
 .section4{
     background-repeat: no-repeat;
-    background-size: 100% auto;
+    background-size: 100% cover;
     background-image: linear-gradient(
         rgba(0,0,0,0.3),
         rgba(0,0,0,0.3)
